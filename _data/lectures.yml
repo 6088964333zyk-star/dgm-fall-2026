@@ -135,7 +135,7 @@
     - J. Xue, <a href="/dgm-fall-2026/assets/readings/03_Xue_CommentOn.pdf" target="_blank">Comment on On Discriminative vs. Generative Classifiers</a>
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/linear_factors.html">Deep learning book</a>, Ch. 13
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/autoencoders.html">Deep learning book</a>, Ch. 14
-  slides: # TODO: re-upload Lecture_13_Generative.pdf once remade from PPTX
+  slides: "/dgm-fall-2026/assets/lectures/Lecture_13_Generative.pdf"
   notes:
 
 - date: 10/27

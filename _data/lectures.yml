@@ -116,7 +116,7 @@
 - date: 10/13
   lecturer: Baiheng Chen
   title: <strong>Review</strong>
-  slides: # TODO: re-upload Lecture_12_Review.pdf once remade from PPTX
+  slides:
   notes:
 
 - date: 10/15
@@ -141,7 +141,7 @@
 - date: 10/27
   lecturer: Prof. Lengerich
   title: <strong>Variational Autoencoders and Generative Adversarial Networks</strong>
-  slides: # TODO: re-upload Lecture_14_Autoencoders.pdf and Lecture_15_GAN.pdf once remade from PPTX
+  slides: "/dgm-fall-2026/assets/lectures/Lecture_14_VAEs_GANs.pdf"
   readings:
     - Kingma and Welling, <a href="https://arxiv.org/abs/1312.6114">Variational Autoencoders</a>
     - Goodfellow et al., <a href="http://www.deeplearningbook.org/">Deep learning book</a>, Ch. 20.9-10
@@ -157,7 +157,7 @@
     - 'Ho et al., <a href="https://arxiv.org/abs/2006.11239">Denoising Diffusion Probabilistic Models</a>'
   slides: # TODO: re-upload Lecture_16_Diffusion.pdf once remade from PPTX
   notes:
-  logistics: HW3 due Fri 10/30
+  logistics: HW3 due Sun 11/1
 
 - title: "Module 4: Sequence Models and Large Language Models"
 

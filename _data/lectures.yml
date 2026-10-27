@@ -141,7 +141,7 @@
 - date: 10/27
   lecturer: Prof. Lengerich
   title: <strong>Variational Autoencoders and Generative Adversarial Networks</strong>
-  slides: "/dgm-fall-2026/assets/lectures/Lecture_14_VAEs_GANs.pdf"
+  slides: "/dgm-fall-2026/assets/lectures/Lecture_14_VAE_GANs.pdf"
   readings:
     - Kingma and Welling, <a href="https://arxiv.org/abs/1312.6114">Variational Autoencoders</a>
     - Goodfellow et al., <a href="http://www.deeplearningbook.org/">Deep learning book</a>, Ch. 20.9-10

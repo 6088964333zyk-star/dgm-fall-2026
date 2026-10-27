@@ -157,7 +157,7 @@
     - 'Ho et al., <a href="https://arxiv.org/abs/2006.11239">Denoising Diffusion Probabilistic Models</a>'
   slides: # TODO: re-upload Lecture_16_Diffusion.pdf once remade from PPTX
   notes:
-  logistics: HW3 due Sun 11/1
+  logistics:
 
 - title: "Module 4: Sequence Models and Large Language Models"
 
@@ -182,7 +182,7 @@
     - Sanderson, <a href="https://www.youtube.com/watch?v=KJtZARuO3JY">Visualizing transformers and attention</a> (video)
   slides: # TODO: re-upload Lecture_18_Attention.pdf once remade from PPTX
   notes:
-  logistics: Project midway report due Fri 11/6
+  logistics: Project midway report due Fri 11/6, HW3 due Fri 11/6
 
 - date: 11/10
   lecturer: Prof. Lengerich
